@@ -2,7 +2,7 @@
 
 This is an example of using a Bayes Classifier with NLTK & TextBlob to classify a set of text.
 Both the Test and the Corpus are stored as files rather than being enter. 
-I put this together as part of a learning exercise to understand how NLTK & Python work.
+
 
 ## Code Example
 
@@ -18,9 +18,8 @@ You will need the following
 - Python 3.4
 - NLTK 3.0
 - TextBlob
-
-- Use the standard pip3 commands to install the Python packages. 
-- 
+Use the standard pip3 commands to install the Python packages. 
+ 
 
 
 ## API Reference

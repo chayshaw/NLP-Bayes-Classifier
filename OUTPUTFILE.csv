@@ -1,0 +1,6 @@
+['Text,Classification,Accuracy']
+['This is really bad', 'bad', 0.7800000000000004]
+['I had a good day today', 'good', 0.7799999999999999]
+['It was good in the morning', 'good', 0.7799999999999999]
+['I was feeling very joyful this afternoon', 'good', 0.7799999999999999]
+['It was very hurtful to lose a good friend.', 'bad', 0.5]
